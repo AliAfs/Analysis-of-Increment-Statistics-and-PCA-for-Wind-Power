@@ -11,8 +11,8 @@ provided by National Renewable Energy Laboratory (NREL).
 <br>The project contains data visualization, data analysis, and prediction on wind velocity and output power time series.
 <br><b>1- Data Visualization:</b> Time Series Plot, Heat Maps
 <br><b>2- Data Analysis:</b> 
-<br><b>a)</b> Histogram of wind velocity and power (for single tourbine and all tourbines)
-<br><b>b)</b> Scatter Plots. Correlation Matrix. Implementing PCA and finding Emprical Orthogonal Function( eofs).
+<br><b>a)</b> Histogram and pdf of wind velocity and power
+<br><b>b)</b> Scatter Plots. Correlation Matrix. Implementing PCA and finding Emprical Orthogonal Function(eofs).
 <br><b>3- Statistical Model/Forcast</b>
 
 [1] WindEurope, “Wind energy in Europe: 2021 Statistics and outlook for 2022-2026, https://windeurope.org/intelligence-platform/product/wind-energy-in-europe-2021-statistics-and-the-outlook-for-2022-2026/#findings, Access date: June 30, 2022
