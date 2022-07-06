@@ -16,5 +16,5 @@ provided by National Renewable Energy Laboratory (NREL).
 <br><b>3- Statistical Model/Forcast</b>
 
 [1] WindEurope, “Wind energy in Europe: 2021 Statistics and outlook for 2022-2026, https://windeurope.org/intelligence-platform/product/wind-energy-in-europe-2021-statistics-and-the-outlook-for-2022-2026/#findings, Access date: June 30, 2022
-[2] Milan, P., Wächter, M. & Peinke, J. Turbulent character of wind energy. Physical Review Letters 110, (2013).
+<br>[2] Milan, P., Wächter, M. & Peinke, J. Turbulent character of wind energy. Physical Review Letters 110, (2013).
 Data Source: https://odysseus.informatik.uni-oldenburg.de/download/Data/NREL/2006/
